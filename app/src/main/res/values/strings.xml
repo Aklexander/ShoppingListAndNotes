@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="app_inter_ads_id">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="setting">Setting</string>
+    <string name="list_notes">Notes</string>
+    <string name="shop_list">Shop list</string>
+    <string name="new_item">New</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="new_note_title">Title</string>
+    <string name="new_note_description">Description</string>
+    <string name="new_note_menu_save">Save</string>
+    <string name="bold_menu">Bold</string>
+    <string name="menu_color">Color</string>
+    <string name="new_list">New List Name</string>
+    <string name="update_list">Update List Name</string>
+    <string name="name_list">Name List</string>
+    <string name="add_new_list">Add new list</string>
+    <string name="update_new_list">Update new list</string>
+
+    <string name="delete_item">Do you want delete item?</string>
+    <string name="delete_alert">DELETE</string>
+    <string name="delete_button_dsl">DELETE</string>
+    <string name="cancel_button_dsl">CANCEL</string>
+
+
+    <string name="menu_add_shop_list_delete_list">Delete list</string>
+    <string name="menu_add_shop_list_clear_list">Clear list</string>
+    <string name="menu_add_shop_list_share_list">Share list</string>
+    <string name="menu_add_shop_list_new_item">New item</string>
+    <string name="menu_add_shop_list_save_item">Save item</string>
+
+    <string name="edit_action_layout_new_item">Add item</string>
+    <string name="tvEmpty">Empty</string>
+    <string name="dialog_shop_item_title">Update shopping item</string>
+    <string name="dialog_shop_item_name">Name</string>
+    <string name="dialog_shop_item_info">Information item</string>
+    <string name="dialog_shop_item_button">Update item</string>
+    <string name="share_list_item">Share by</string>
+    
+    <string name="preference_general">General</string>
+    <string name="preference_chose_note_style">Chose note style</string>
+    <string name="preference_chose_time_format">Chose time format</string>
+    <string name="preference_remove_ads">Remove ADS</string>
+    <string name="preference_remove_ads_summary">Remove all ADS from this app</string>
+    <string name="preference_theme_settings">Theme setting</string>
+    <string name="preference_chose_theme">Chose theme</string>
+    <string name="preference_text_settings">Text setting</string>
+    <string name="preference_size_title_text_settings">Size tittle text</string>
+    <string name="preference_size_content_text_settings">Size content text</string>
+    
+
+
+</resources>
